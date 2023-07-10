@@ -1,1 +1,4 @@
-puts 'Hello world!'
+
+puts "This is something different"
+
+puts "This too"
